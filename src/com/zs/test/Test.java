@@ -8,4 +8,8 @@ public class Test {
 
         System.out.println("h vvv www");
     }
+
+    public void test(){
+        System.out.print("test");
+    }
 }
